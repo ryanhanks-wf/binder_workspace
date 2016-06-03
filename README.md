@@ -12,12 +12,12 @@ bdub clean - clean out the workspace to a state where a fresh build will succeed
 bdub build - build bigsky, python env, link virtualenv to repos, link client side repos, build binder manager, doc viewer, binder manager admin
 bdub update - how do I pull in new bigsky, new requirements ** just clean and build
 bdub run - ngrok, bigsky, binder manager server, nginx, dartium, tee
-bdub create-datastore - runs the initialize datastore script + additions
-bdub save-datastore -  save a datastore to your user-cache of datastores, optionally providing a name
-bdub load-datastore - load the default datastore, or specify a datastore by name / timespamp
-bdub list-datastore - list your user datastores
-bdub load-config - load a config from a user/ticket repo
-bdub save-config - update config
+bdub create-datastore - runs the initialize datastore script to create a new datastore for your workspace
+bdub save-datastore -  save a datastore to your local datastores, optionally providing a name
+bdub load-datastore - load a datastore by name / timespamp. Loads most recently saved by default
+bdub list-datastore - list your local datastores
+bdub load-config - load a config from a user/ticket repo (i.e., bdub load-config ryanhanks-wf/BINDERS-379)
+bdub save-config - Push upddated config
 ```
 
 # Developer Stories
