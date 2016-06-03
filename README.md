@@ -22,17 +22,15 @@ bdub save-config - update config
 
 # Developer Stories
 
+~~~
 As a Binders developer
-
 I want to use a managed workspace
-
 So that I can quickly and easily contribute code to core Workiva repos
+~~~
 
-***
-
+~~~
 As a Binders developer
-
 I want to build a configuration for the project I'm working on
-
 So that I can share and reuse that configuration
+~~~
 
