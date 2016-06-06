@@ -10,7 +10,6 @@ This repo hosts a CLI for creating and managing a binders workspace. It uses [cl
 bdub create - create a new binder workspace, spit out an empty config file with a sample config, create the gist to store the config
 bdub clean - clean out the workspace to a state where a fresh build will succeed
 bdub build - build bigsky, python env, link virtualenv to repos, link client side repos, build binder manager, doc viewer, binder manager admin
-bdub update - how do I pull in new bigsky, new requirements ** just clean and build
 bdub run - ngrok, bigsky, binder manager server, nginx, dartium, tee
 bdub create-datastore - runs the initialize datastore script to create a new datastore for your workspace
 bdub save-datastore -  save a datastore to your local datastores, optionally providing a name
