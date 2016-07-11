@@ -29,18 +29,18 @@ I want to use a managed workspace
 So that I can quickly and easily contribute code to core Workiva repos
 ~~~
 
+## Manage Binder Workspace Through Configuration
+~~~
+As a Binders developer
+I want to track a configuration for the project I'm working on
+So that I can use that configuration to establish / restore a functioning development environment.
+~~~
+
 ## Share Binder Workspace Configuration
 ~~~
 As a Binders developer
 I want to build a configuration for the project I'm working on
 So that I can share that configuration with collaborators and reviewers
-~~~
-
-## Manage Binder Workspace through configuration
-~~~
-As a Binders developer
-I want to track a configuration for the project I'm working on
-So that I can use that configuration to establish / restore a functioning development environment.
 ~~~
 
 ## About
