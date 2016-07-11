@@ -9,6 +9,6 @@ setup(
     ],
     entry_points='''
         [console_scripts]
-        bdub=bdub:cli
+        bw=bw:cli
     ''',
 )
