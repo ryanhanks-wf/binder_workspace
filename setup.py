@@ -1,9 +1,9 @@
 from setuptools import setup
 
 setup(
-    name='binders_workspace',
+    name='binder_workspace',
     version='0.0.1',
-    py_modules=['bdub'],
+    py_modules=['bw'],
     install_requires=[
         'Click',
     ],
