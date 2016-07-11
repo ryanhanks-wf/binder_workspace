@@ -33,14 +33,14 @@ So that I can quickly and easily contribute code to core Workiva repos
 ~~~
 As a Binders developer
 I want to maintain a configuration for the project I'm working on
-So that I can use that configuration to establish / restore a functioning development environment.
+So that I can use that configuration to establish / restore a functioning development environment
 ~~~
 
 ## Share Binder Workspace Configuration
 ~~~
 As a Binders developer
-I want to maintain a configuration for the project I'm working on
-So that I can share that configuration with collaborators and reviewers
+I want to share the configuration for a project I'm working on
+So that I can quickly and easily involve collaborators and reviewers
 ~~~
 
 ## About
